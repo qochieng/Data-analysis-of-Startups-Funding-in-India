@@ -15,7 +15,7 @@ Install as you normally would the python libraries such as dotenv or pyodbc inor
 Distributed under the MIT License. See LICENSE.md for more information.
 
 ## Acknowledgements
-Azubi Africa
-readme-templates.com
+* Azubi Africa
+* readme-templates.com
 
 
