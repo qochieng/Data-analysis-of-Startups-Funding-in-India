@@ -8,6 +8,16 @@ An analysis of funding of Startups in India and to determine whether the  sector
 * H0: Sectors and what they do does not contribute to the success of a Startup in India.
 * H1: Sector and what the sector does contributes to the success of a Startup in India.
 
+## Questions
+
+* Is the data Clean?
+* Which Statistical analysis will I use?
+* Which Data Visualizations will I use for Presentation?
+* What were the limitations of the analysis if any?
+* What is the conclusion derived from the analysis?
+* What is/are the recommendations derived from the analysis?
+
+
 
 ## Table of Contents
 * Name
