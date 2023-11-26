@@ -40,5 +40,6 @@ Distributed under the MIT License. See LICENSE.md for more information.
 ## Acknowledgements
 * Azubi Africa
 * readme-templates.com
+* pandas documentation
 
 
