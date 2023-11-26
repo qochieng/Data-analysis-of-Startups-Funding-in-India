@@ -8,12 +8,12 @@ An analysis of funding of Startups in India and to determine whether the  sector
 * H0: Location does not contribute to the success of a Startup in India.
 * H1: Location contributes to the success of a Startup in India.
 
-## Questions
+## Guiding Questions
 
 1. Sector or industry that received  least  and more Funds in each year(2018-2021)
-2. Investor that provide and least more Amount in each year (2018-2021)
-3. Which Company received least and more Funds in each year (2018-2021)
-4. Does the presence of well-known founders impact the funding amounts received by startups?
+2. Which stage of funding got the highest investment?
+3. Which are the top cities to receive funding?
+4. Which Sector of startup was highly funded?
 5. Does the Locaction of the startup impact the investments
 
 
@@ -22,6 +22,7 @@ An analysis of funding of Startups in India and to determine whether the  sector
 * Name
 * Description
 * Built with
+* Guiding questions
 * Development setup
 * Acknowledgements
 
