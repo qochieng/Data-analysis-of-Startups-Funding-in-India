@@ -5,17 +5,16 @@ An analysis of India Startups funding ecosystem to determine if the sector of th
 An analysis of funding of Startups in India and to determine whether the  sector associated with the startup affects their success(funding). The data analyzed is for the period between 2018 and 2021
 
 ## Hypothesis
-* H0: Sectors and what they do does not contribute to the success of a Startup in India.
-* H1: Sector and what the sector does contributes to the success of a Startup in India.
+* H0: Location does not contribute to the success of a Startup in India.
+* H1: Location contributes to the success of a Startup in India.
 
 ## Questions
 
-* Is the data Clean?
-* Which Statistical analysis will I use?
-* Which Data Visualizations will I use for Presentation?
-* What were the limitations of the analysis if any?
-* What is the conclusion derived from the analysis?
-* What is/are the recommendations derived from the analysis?
+1. Sector or industry that received  least  and more Funds in each year(2018-2021)
+2. Investor that provide and least more Amount in each year (2018-2021)
+3. Which Company received least and more Funds in each year (2018-2021)
+4. Does the presence of well-known founders impact the funding amounts received by startups?
+5. Does the Locaction of the startup impact the investments
 
 
 
